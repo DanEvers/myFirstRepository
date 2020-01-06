@@ -1,3 +1,3 @@
 function sayHi(){
-    alter("hello! Welcome to DevMtn");
+    alter("hello!Welcome to DevMtn");
 }
